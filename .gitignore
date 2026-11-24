@@ -1,0 +1,23 @@
+# CS+ / CubeSuite+ build output
+DefaultBuild/
+*.obj
+*.abs
+*.mot
+*.map
+*.clnk
+*.ud
+*.udm
+
+# Per-user IDE state
+*.mtud
+
+# Downloadable vendor documentation (see README for the link)
+SmartManual Docs/
+
+# Company-branded documents (not for public release)
+User manual/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
